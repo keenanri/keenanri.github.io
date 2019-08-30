@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Ria's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/keenanri/keenanri.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will be using the [editor on GitHub](https://github.com/keenanri/keenanri.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in this site, from the content in the Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -30,8 +30,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keenanri/keenanri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This GitHub Pages site will use the layout and styles from the Jekyll theme that I selected in my [repository settings](https://github.com/keenanri/keenanri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out the [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and get help to sort it out.
